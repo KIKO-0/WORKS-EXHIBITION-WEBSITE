@@ -3,6 +3,6 @@
  
  display:https://kiko-0.github.io/WORKS-EXHIBITION-WEBSITE/dist/
 
-图片加载有一些慢
+首次访问图片与效果加载有一些慢，可以尝试刷新，几次下来就差不多了。
 
 建议电脑端访问
